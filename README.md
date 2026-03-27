@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Agos88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a software developer focused on building practical and maintainable solutions, mainly in the WordPress ecosystem.
 
-<!---
-Agos88/Agos88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I develop custom plugins, tailored features, and tools for real-world projects — with a strong focus on clean code and usability.
+
+Currently working on projects under Studio AP, where I help turn ideas into functional digital products.
+
+🔧 Tech:
+- React
+- PHP, JavaScript, TypeScript
+- WordPress (custom plugins & themes)
+- HTML, CSS
+
+🚀 Always improving, always building.

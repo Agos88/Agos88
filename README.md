@@ -1,14 +1,22 @@
-I'm a software developer focused on building practical, maintainable and scalable solutions.
+# 👋 Hi, I'm Agostino
 
-I specialize in developing custom WordPress plugins and modern frontend applications using React and TypeScript.
+Software Developer focused on WordPress plugins, React and TypeScript.
 
-I also design and manage containerized environments using Docker, ensuring consistency and scalability across projects.
-
-Through Studio AP, I work on real-world projects, turning ideas into functional and efficient digital products.
+I build custom solutions and containerized applications using Docker.
 
 ---
 
-## 🔧 Tech
+## 🏢 Studio AP
+
+My development space where I create:
+
+- Custom WordPress plugins
+- React-based interfaces
+- Scalable and containerized applications
+
+---
+
+## 🔧 Tech Stack
 
 - PHP (WordPress)
 - React
@@ -19,8 +27,14 @@ Through Studio AP, I work on real-world projects, turning ideas into functional 
 
 ---
 
-## 🚀 Focus
+## 🚀 Current Work
 
-- Custom WordPress plugin development
-- Modern frontend interfaces (React)
-- Scalable and containerized applications
+- Building custom WordPress plugins
+- Improving architecture and scalability
+- Developing containerized environments
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/agostinopadula

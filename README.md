@@ -1,13 +1,26 @@
-I'm a software developer focused on building practical and maintainable solutions, mainly in the WordPress ecosystem.
+I'm a software developer focused on building practical, maintainable and scalable solutions.
 
-I develop custom plugins, tailored features, and tools for real-world projects — with a strong focus on clean code and usability.
+I specialize in developing custom WordPress plugins and modern frontend applications using React and TypeScript.
 
-Currently working on projects under Studio AP, where I help turn ideas into functional digital products.
+I also design and manage containerized environments using Docker, ensuring consistency and scalability across projects.
 
-🔧 Tech:
+Through Studio AP, I work on real-world projects, turning ideas into functional and efficient digital products.
+
+---
+
+## 🔧 Tech
+
+- PHP (WordPress)
 - React
-- PHP, JavaScript, TypeScript
-- WordPress (custom plugins & themes)
-- HTML, CSS
+- TypeScript
+- JavaScript
+- Docker
+- HTML / CSS
 
-🚀 Always improving, always building.
+---
+
+## 🚀 Focus
+
+- Custom WordPress plugin development
+- Modern frontend interfaces (React)
+- Scalable and containerized applications
